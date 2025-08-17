@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+fastapi
+uvicorn[standard]
+dill
+requests
+
+#-e .
